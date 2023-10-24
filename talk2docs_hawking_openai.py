@@ -11,6 +11,16 @@ Overview:
 
     Date: 10/24/2023
 
+    Examples:
+    Q: What illness did Stephen Hawking develop?
+    A: Stephen Hawking developed motor neurone disease.
+
+    Q: What was Stephen Hawking's father's name?
+    A: Frank
+
+    Q: What kind of work helped Stephen Hawking prove the idea of the 'Big Bang'?
+    A: Stephen Hawking's work on black holes helped prove the idea of the 'Big Bang'.
+
 '''
 
 import os

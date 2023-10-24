@@ -30,7 +30,7 @@ from llama_index.llms import OpenAI
 from llama_index import VectorStoreIndex, SimpleDirectoryReader
 from IPython.display import Markdown, display
 
-documents = SimpleDirectoryReader("hawkding_data").load_data() # text file resides in /hawking_data/
+documents = SimpleDirectoryReader("hawking_data").load_data() # text file resides in /hawking_data/
 index = VectorStoreIndex.from_documents(documents)
 query_engine = index.as_query_engine()
 

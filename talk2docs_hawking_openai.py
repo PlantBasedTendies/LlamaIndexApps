@@ -27,9 +27,6 @@ import os
 load_dotenv()
 open_api_key = os.getenv("OPENAI_API_KEY")
 
-# import os
-# os.environ["OPENAI_API_KEY"] = "ENTER_YOUR_OPENAI_API_KEY"
-
 from llama_index.llms import OpenAI
 from llama_index import VectorStoreIndex, SimpleDirectoryReader
 from IPython.display import Markdown, display

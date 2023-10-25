@@ -8,5 +8,5 @@ Requirements include:
 * openai
 * transformers
 * accelerate
-* IPython
+* python-dotenv
 * os

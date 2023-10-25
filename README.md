@@ -9,4 +9,4 @@ Requirements include:
 * python-dotenv
 * os
 
-To run the python script, you will need to populate <b>default.env</b> with your OpenAI API key and rename it to <b>.env</b>
+To run the python script, you will need to populate *default.env* with your OpenAI API key and rename it to *.env*

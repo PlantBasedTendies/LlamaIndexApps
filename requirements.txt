@@ -1,0 +1,6 @@
+llama-index
+openai
+transformers
+accelerate
+python-dotenv
+os

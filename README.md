@@ -1,5 +1,5 @@
 # LlamaIndex Experimentation
-LlamaIndex Experimentation is a repo to store experiments conducted with LlamaIndex.
+LlamaIndex Experimentation is a repo to store experiments conducted with LlamaIndex's integrated RAG framework.
 
 Requirements include:
 * llama-index

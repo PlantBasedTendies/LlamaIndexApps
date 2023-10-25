@@ -22,9 +22,13 @@ Overview:
     A: Stephen Hawking's work on black holes helped prove the idea of the 'Big Bang'.
 
 '''
-
+from dotenv import load_dotenv
 import os
-os.environ["OPENAI_API_KEY"] = "ENTER_YOUR_OPENAI_API_KEY"
+load_dotenv()
+open_api_key = os.getenv("OPENAI_API_KEY")
+
+# import os
+# os.environ["OPENAI_API_KEY"] = "ENTER_YOUR_OPENAI_API_KEY"
 
 from llama_index.llms import OpenAI
 from llama_index import VectorStoreIndex, SimpleDirectoryReader

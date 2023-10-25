@@ -1,6 +1,7 @@
 ## LlamaIndex Experimentation
 LlamaIndex Experimentation is a repo to store experiments conducted with LlamaIndex's integrated RAG framework.
-
+\
+\
 **talk2docs_hawking_openai.py**: \
 \
 This script loads a simple text file about Stephen Hawking, located in /hawking_text/, and

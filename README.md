@@ -17,6 +17,8 @@ allows the end-user to ask questions about NASA's report on UAP, such as:
 * ***Are UAP of extraterrestrial origin?***
 * ***What organizations operate the NEXRAD Doppler radar network?***
 
+--------
+
 Requirements include:
 * llama-index
 * openai

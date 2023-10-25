@@ -10,3 +10,5 @@ Requirements include:
 * accelerate
 * python-dotenv
 * os
+
+To succesfully run the python script, you will need to create a .env file containing your OpenAI API key

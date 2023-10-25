@@ -4,3 +4,4 @@ transformers
 accelerate
 python-dotenv
 os
+pypdf

@@ -7,7 +7,7 @@ Overview:
     In this early stage python script we leverage OpenAI, LlamaIndex, and a PDF
     file containing a study of UAP to ask questions about this otherwordly topic.
     Several questions are pre-populated. An OpenAI key is necessary for this
-    iteration of the script.
+    version of the script.
 
     Date: 10/26/2023
 

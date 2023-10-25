@@ -7,7 +7,7 @@ Overview:
     In this early stage python script we leverage OpenAI, LlamaIndex, and a text
     file containing a history of Stephen Hawking to ask questions about one of
     the world's greatest astrophysicists. Several questions are pre-populated.
-    An OpenAI key is necessary for this iteration of the script.
+    An OpenAI key is necessary for this version of the script.
 
     Date: 10/24/2023
 

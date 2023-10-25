@@ -9,3 +9,4 @@ Requirements include:
 * transformers
 * accelerate
 * IPython
+* os

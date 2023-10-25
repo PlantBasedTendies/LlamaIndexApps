@@ -29,7 +29,7 @@ open_api_key = os.getenv("OPENAI_API_KEY")
 
 from llama_index.llms import OpenAI
 from llama_index import VectorStoreIndex, SimpleDirectoryReader
-from IPython.display import Markdown, display
+# from IPython.display import Markdown, display # Add later for notebook implementation
 
 documents = SimpleDirectoryReader("hawking_data").load_data() # text file resides in /hawking_data/
 index = VectorStoreIndex.from_documents(documents)

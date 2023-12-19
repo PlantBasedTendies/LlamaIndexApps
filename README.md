@@ -1,4 +1,4 @@
-## LlamaIndexApps
+# LlamaIndexApps
 LlamaIndexApps is a repo to store experiments conducted with LlamaIndex's integrated RAG framework.
 
 ## :telescope: **talk2docs_hawking_openai.py**:

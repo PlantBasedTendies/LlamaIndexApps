@@ -3,6 +3,7 @@ LlamaIndex Experimentation is a repo to store experiments conducted with LlamaIn
 \
 \
 :telescope: **talk2docs_hawking_openai.py**: \
+\
 This script loads a simple text file about Stephen Hawking, located in /hawking_text/, and
 allows the end-user to ask questions about the astrophysicist, such as:
 
@@ -13,6 +14,7 @@ allows the end-user to ask questions about the astrophysicist, such as:
 --------
 
 :flying_saucer: **talk2docs_uapstudy_openai.py**: \
+\
 This script loads a PDF file about UAP, located in /uapstudy_data/, and
 allows the end-user to ask questions about NASA's report on UAP, such as:
 

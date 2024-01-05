@@ -4,17 +4,20 @@ Overview:
 
     In this local Streamlit app we leverage OpenAI, LlamaIndex, and a text
     file containing a history of Stephen Hawking to ask questions about one of
-    the world's greatest astrophysicists. Several questions are pre-populated.
-    An OpenAI key is necessary for this version of the script.
+    the world's greatest astrophysicists.
+
+    Note: An OpenAI key is necessary for this version of the script.
 
     Date: 1/05/2024
 
 '''
 from dotenv import load_dotenv
 import os
+import streamlit as st
+
 load_dotenv()
 open_api_key = os.getenv("OPENAI_API_KEY")
-import streamlit as st
+
 
 from llama_index.llms import OpenAI
 from llama_index import VectorStoreIndex, SimpleDirectoryReader

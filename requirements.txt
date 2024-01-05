@@ -5,3 +5,4 @@ accelerate
 python-dotenv
 os
 pypdf
+streamlit

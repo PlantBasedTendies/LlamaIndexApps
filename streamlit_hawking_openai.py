@@ -22,7 +22,7 @@ load_dotenv()
 open_api_key = os.getenv("OPENAI_API_KEY")
 
 # Streamlit app layout
-st.title("Stephen Hawking Q&A :telescope: ")
+st.title("Stephen Hawking Q&A :telescope:")
 
 intro = '''**Examples:**  
         :pill: :orange[What illness did Stephen Hawking develop?]  

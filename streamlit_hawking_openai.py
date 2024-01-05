@@ -2,11 +2,11 @@
 '''
 Overview:
 
-    In this local Streamlit app we leverage OpenAI, LlamaIndex, and a text
+    In this local Streamlit app we leverage OpenAI*, LlamaIndex, and a text
     file containing a history of Stephen Hawking to ask questions about one of
     the world's greatest astrophysicists.
 
-    **Note: An OpenAI key is necessary for this version of the script.**
+    *Note: An OpenAI key is necessary for this version of the script.
 
     Date: 1/05/2024
 

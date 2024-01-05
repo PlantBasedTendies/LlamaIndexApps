@@ -5,7 +5,8 @@ LlamaIndexApps is a repo to store experiments conducted with LlamaIndex's integr
 ## :telescope: **streamlit_hawking_openai.py**
 This script builds upon talk2docs_hawking_openai.py by adding a Streamlit UI which enables the user to
 ask questions about Stephen Hawking with natural language answers produced via LlamaIndex. Screenshot:
-![Streamlit Implementation of LlamaIndex](https://github.com/PlantBasedTendies/LlamaIndexApps/assets/86295293/df2dffdf-d41b-4387-afd7-1c1cc445b248)
+![Screenshot of Streamlit Integration](https://github.com/PlantBasedTendies/LlamaIndexApps/assets/86295293/9e9099e1-fb30-40e9-8420-d3ab1ebb3e23)
+
 
 --------
 ## :telescope: **talk2docs_hawking_openai.py**

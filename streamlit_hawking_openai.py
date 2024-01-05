@@ -12,15 +12,13 @@ Overview:
 
 '''
 from dotenv import load_dotenv
+from llama_index.llms import OpenAI
+from llama_index import VectorStoreIndex, SimpleDirectoryReader
 import os
 import streamlit as st
 
 load_dotenv()
 open_api_key = os.getenv("OPENAI_API_KEY")
-
-
-from llama_index.llms import OpenAI
-from llama_index import VectorStoreIndex, SimpleDirectoryReader
 
 # Streamlit app layout
 st.title("Stephen Hawking Q&A :telescope: ")

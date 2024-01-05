@@ -37,5 +37,6 @@ allows the end-user to ask questions about NASA's report on UAP, such as:
 * python-dotenv
 * os
 * pypdf
+* streamlit
 
 :gear: To run the python script, you will need to populate **default.env** with your OpenAI API key and rename it to **.env**

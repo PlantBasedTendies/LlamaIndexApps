@@ -24,8 +24,8 @@ st.title("Stephen Hawking Q&A :telescope: ")
 
 intro = '''**Examples:**  
 :pill: :orange[What illness did Stephen Hawking develop?]  
- :bald_man: :green[What was Stephen Hawking's father's name?]  
- :boom: :blue[What kind of work helped Stephen Hawking prove the idea of the 'Big Bang'?]
+:bald_man: :green[What was Stephen Hawking's father's name?]  
+:boom: :blue[What kind of work helped Stephen Hawking prove the idea of the 'Big Bang'?]
 '''
 st.markdown(intro)
 

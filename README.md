@@ -13,6 +13,10 @@ ask questions about Stephen Hawking with natural language answers produced via L
 This script loads a text file containing information about Stephen Hawking's life, located in /hawking_text/, and
 allows the end-user to ask questions about the astrophysicist.
 
+* ***What was Stephen Hawking's father's name?***
+* ***What illness did Stephen Hawking develop?***
+* ***What kind of work helped Stephen Hawking prove the idea of the 'Big Bang'?***
+
 --------
 
 ## :flying_saucer: **talk2docs_uapstudy_openai.py**

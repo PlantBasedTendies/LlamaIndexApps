@@ -35,7 +35,6 @@ allows the end-user to ask questions about NASA's report on UAP, such as:
 * transformers
 * accelerate
 * python-dotenv
-* os
 * pypdf
 * streamlit
 

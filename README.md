@@ -30,12 +30,12 @@ allows the end-user to ask questions about NASA's report on UAP, such as:
 --------
 
 :wrench: Requirements include:
+* accelerate
 * llama-index
 * openai
-* transformers
-* accelerate
-* python-dotenv
 * pypdf
+* python-dotenv
 * streamlit
+* transformers
 
 :gear: To run the python script, you will need to populate **default.env** with your OpenAI API key and rename it to **.env**

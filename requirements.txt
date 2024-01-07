@@ -1,8 +1,7 @@
-llama-index
-openai
-transformers
-accelerate
-python-dotenv
-os
-pypdf
-streamlit
+llama-index==0.8.50
+openai==0.28.1
+transformers==4.34.1
+accelerate==0.24.0
+python-dotenv==1.0.0
+pypdf==3.16.4
+streamlit==1.29.0

@@ -2,7 +2,7 @@
 '''
 Overview:
 
-    In this local Streamlit app we leverage OpenAI*, LlamaIndex, and a text
+    In this GenAI Streamlit app we leverage OpenAI*, LlamaIndex, and a text
     file containing a history of Stephen Hawking to ask questions about one of
     the world's greatest astrophysicists.
 
@@ -31,7 +31,7 @@ intro = '''**Examples:**
 st.markdown(intro)
 user_input = st.text_input("Ask a question about Stephen Hawking:")
 
-# LlamaIndex integrated RAG
+# LlamaIndex integrated RAG 
 # text file resides in /hawking_data/
 documents = SimpleDirectoryReader("hawking_data").load_data() 
 index = VectorStoreIndex.from_documents(documents)

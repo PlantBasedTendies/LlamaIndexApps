@@ -6,7 +6,7 @@ Overview:
     file containing a history of Stephen Hawking to ask questions about one of
     the world's greatest astrophysicists.
 
-    *Note: An OpenAI API key must reside in .env, but API usage is limited 
+    *Note: An OpenAI API key must reside in .env, but API usage is regulated 
 
     Date: 1/05/2024
 

@@ -1,3 +1,5 @@
+![My Stats](https://github-readme-stats.vercel.app/api?username=PlantBasedTendies&show_icons=true)
+
 # LlamaIndexApps
 LlamaIndexApps is a repo to store experiments conducted with LlamaIndex's integrated RAG framework.
 

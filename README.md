@@ -42,4 +42,4 @@ allows the end-user to ask questions about NASA's report on UAP, such as:
 :gear: To run the python script, you will need to populate **default.env** with your OpenAI API key and rename it to **.env**
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PlantBasedTendies&show_icons=true)
